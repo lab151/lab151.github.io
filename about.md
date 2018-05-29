@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
 
-### More Information
+This is a collective blog that is shared between the following authors:
+- Connor McShane
+...
 
-A place to include any other types of information that you'd like to include about yourself.
+Please understand we (I especially) are novices to the realm of blogging so we would welcome any feedback or comments available.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[connor.mcshane](mailto:c.o.mcshane@gmail.com)

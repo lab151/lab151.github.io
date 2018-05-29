@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Hello Blog World
+description: This is my awesome writeup of this fantastic thing
 permalink:
 tags: Personal
 category: Personal

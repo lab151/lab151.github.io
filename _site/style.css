@@ -115,12 +115,12 @@ p {
 }
 
 a {
-  color: #4183C4;
+  color: #5271ff;
   text-decoration: none;
   cursor: pointer;
 }
 a:hover, a:active {
-  color: #4183C4;
+  color: #5271ff;
 }
 
 ul, ol {
@@ -166,12 +166,12 @@ img {
 }
 
 ::-moz-selection {
-  color: #000;
+  color: rgba(0, 5, 0, 0.219);
   background: #eee;
 }
 
 ::selection {
-  color: #000;
+  color: rgba(0, 5, 0, 0.219);
   background: #eee;
 }
 
@@ -275,7 +275,7 @@ nav a {
 @media screen and (max-width: 640px) {
   nav a {
     margin: 0 10px;
-    color: #4183C4;
+    color: #5271ff;
   }
 }
 
