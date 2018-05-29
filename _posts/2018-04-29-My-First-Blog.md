@@ -1,12 +1,6 @@
 ---
 layout: post
 title:  Hello Blog World
-date:   2016-08-28 12:04:50 +0100
-author: Connor McShane
-author_bio: false
-
-categories:
-  - author bio
 
 ---
 
@@ -24,4 +18,5 @@ I am also on github at connor-mcshane.github.io and linkedin at www.linkedin.com
 
 Here is a photo of me :) 
 
-{% include figure image_path="/assets/images/Profile.jpg" %}{: .w-50 .tc}
+![_config.yml]({{ site.baseurl }}/images/config.png)
+
