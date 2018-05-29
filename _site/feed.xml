@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-05-29T21:48:41+01:00</updated><id>http://localhost:4000/</id><title type="html">Your Name</title><subtitle>Web Developer from Somewhere</subtitle><entry><title type="html">Hello Blog World</title><link href="http://localhost:4000/My-First-Blog/" rel="alternate" type="text/html" title="Hello Blog World" /><published>2018-04-29T00:00:00+01:00</published><updated>2018-04-29T00:00:00+01:00</updated><id>http://localhost:4000/My-First-Blog</id><content type="html" xml:base="http://localhost:4000/My-First-Blog/">&lt;p&gt;Hi! My name is Connor and this is my first dive into blogging!&lt;/p&gt;
+
+&lt;p&gt;A bit about me…&lt;/p&gt;
+
+&lt;p&gt;I am a recent Electrical and Electronic Master’s Graduate from Perth Australia. I have always been eager to get more involved in sharing knowledge and documenting projects I have worked on, which I believe blogging will help.&lt;/p&gt;
+
+&lt;p&gt;I began my journey, from watching a youtube video on how a computer works, the video was excellent and it prompted myself to enrol in engineer courses at University. Since then I have taken every opportunity to learn and develop my engineering skills at or outside of University.&lt;/p&gt;
+
+&lt;p&gt;I love working with people and with teams with diverse backgrounds and knowledge. Also I am a avid musician, volunteer and electronics hobbyist.&lt;/p&gt;
+
+&lt;p&gt;I am also on github at connor-mcshane.github.io and linkedin at www.linkedin.com/in/connor-mcshane.&lt;/p&gt;
+
+&lt;p&gt;Here is a photo of me :)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/post-images-2018-04-29-My-First-Blog/Connor-McShane-Profile.jpg&quot; alt=&quot;Me&quot; height=&quot;200px&quot; /&gt;.&lt;/p&gt;</content><author><name></name></author><category term="Personal" /><category term="Personal" /><summary type="html">Hi! My name is Connor and this is my first dive into blogging!</summary></entry></feed>

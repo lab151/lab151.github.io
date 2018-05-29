@@ -1,6 +1,9 @@
 ---
 layout: post
 title:  Hello Blog World
+permalink:
+tags: Personal
+category: Personal
 
 ---
 
@@ -18,5 +21,6 @@ I am also on github at connor-mcshane.github.io and linkedin at www.linkedin.com
 
 Here is a photo of me :) 
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+
+![Me]({{ site.baseurl }}/images/post-images-2018-04-29-My-First-Blog/Connor-McShane-Profile.jpg){:height="200px"}.
 
